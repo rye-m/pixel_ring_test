@@ -1,0 +1,11 @@
+[project]
+name = "pixel-ring-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.2.0",
+    "scipy>=1.14.1",
+    "soundfile>=0.12.1",
+]
